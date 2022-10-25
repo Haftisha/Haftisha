@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haftisha
-- 👀 I’m interested in .NET and PHP applications with client side java script frameworks like Vue, and Angular
+- 👀 I’m interested in development of enterprise applications with .NET and JavaScript frameworks like Angular, React and Vue
 - 🌱 I’m currently working as a  senior software developer at <a href="https://www.excellerentsolutions.com/">Excellerent Solutions</a>
 - 📫 You can reach me on <a href="mailto:haftenigus@gmail.com">haftenigus@gmail.com</a>
 
